@@ -1,0 +1,15 @@
+{
+  "name": "LeeTrioNFT",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LeeTrio/LeeTrioNFT.git",
+  "author": "이성현 <marvel97@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "@truffle/hdwallet-provider": "^2.1.0",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
